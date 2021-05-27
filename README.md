@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prasadlolla
-- 👀 I’m interested in ...java, golang, kafka, 
+- 👀 I’m interested in ...java, golang, kafka, graphql, stream processors, cockroachdb
 - 🌱 I’m currently learning ... Quantum Qiskit
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... GraphQl, Apollo Graph, Kong & Tyk Gateway with GraphQL
+- 📫 How to reach me ... prasad_lolla@mckinsey.com
 
 <!---
 prasadlolla/prasadlolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
